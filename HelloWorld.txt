@@ -1,14 +1,3 @@
 Hello World - Username
 
 Welcome - username
-
-stash
-
-
-
-<<<<<<< Updated upstream
-=======
-Welcome!!
-
-Half Work!!!
->>>>>>> Stashed changes
