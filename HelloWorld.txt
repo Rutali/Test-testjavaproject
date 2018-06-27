@@ -6,3 +6,9 @@ stash
 
 
 
+<<<<<<< Updated upstream
+=======
+Welcome!!
+
+Half Work!!!
+>>>>>>> Stashed changes
